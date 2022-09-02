@@ -4,7 +4,13 @@
  | |___  | | |   <  |  __/   |  __/  | (_) | \__ \ | |_
  |_____| |_| |_|\_\  \___|   |_|      \___/  |___/  \__|
 
-${application.title} ${application.version}
-ststs1234567890
+ststsw1234567890
 ststs123
+ststsww123
 ststs123
+ds
+ststsds123
+ststs123
+ds3
+ststs33123
+stst3fs123
