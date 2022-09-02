@@ -4,7 +4,3 @@
  | |___  | | |   <  |  __/   |  __/  | (_) | \__ \ | |_
  |_____| |_| |_|\_\  \___|   |_|      \___/  |___/  \__|
 
-${application.title} ${application.version}
-ststs1234567890
-ststs123
-ststs123
